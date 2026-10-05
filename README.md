@@ -25,8 +25,12 @@ uzap-protocol/
 ├── LICENSE                    Apache-2.0
 ├── README.md
 ├── docs/
-│   └── rfc-9901-uzap.md         Draft specification: 4-layer architecture,
-│                                2-of-3 flow, enclave + ZK broadcast design
+│   ├── rfc-9901-uzap.md         Draft specification: 4-layer architecture,
+│   │                            2-of-3 flow, enclave + ZK broadcast design
+│   ├── vital-statistics-ledger.md  Vital Statistics Ledger concept (draft):
+│   │                            biological origin vs. legal responsibility
+│   └── mommy-and-me/
+│       └── building-lessons.md  Mommy & Me building lessons 1–7
 ├── schemas/
 │   └── did-document.json        Example W3C DID document (placeholder keys)
 └── src/
